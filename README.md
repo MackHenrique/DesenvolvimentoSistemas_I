@@ -1,2 +1,2 @@
 # MackProjects
-Este repository armazenará projetos da universidade.
+Este repositorio armazenará projetos da universidade.
